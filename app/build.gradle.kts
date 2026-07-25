@@ -31,7 +31,7 @@ android {
 
     defaultConfig {
         applicationId = applicationIdOverride ?: "com.meld.app"
-        minSdk = 26
+        minSdk = 23
         targetSdk = 36
         versionCode = 19
         versionName = "0.8.1"
